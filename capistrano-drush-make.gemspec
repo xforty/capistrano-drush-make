@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'capistrano-drush-make'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = "Deployment strategy for Drupal drush makefiles"
   s.description = "Drush makefiles are used to build a drupal code base with specific version.  This gem focused on deploying with those makefiles"
   s.authors     = ["Christian Pearce"]
