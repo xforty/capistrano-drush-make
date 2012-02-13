@@ -13,4 +13,7 @@ Gem::Specification.new do |s|
   ]
 
   s.add_runtime_dependency(%q<capistrano>, [">=2.0"])
+  s.add_runtime_dependency(%q<capistrano-ash>, [">=1.1.16"])
+  s.add_runtime_dependency(%q<capistrano-ext>, [">=1.2.1"])
+  s.add_runtime_dependency(%q<railsless-deploy>, [">=1.0.2"])
 end
