@@ -1,3 +1,5 @@
+Old project.  Use [drush-deploy](https://github.com/xforty/drush-deploy) instead.
+
 version 0.1.0
 
 ## DESCRIPTION
